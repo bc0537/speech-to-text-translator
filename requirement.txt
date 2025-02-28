@@ -1,0 +1,10 @@
+Flask 
+openai 
+google-cloud-speech 
+requests 
+flask-cors 
+python-dotenv 
+gunicorn 
+SpeechRecognition 
+pyttsx3
+
