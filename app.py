@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify,render_template
 import openai
 import os
-from google.cloud import speech_v1p1beta1 as speech
 from dotenv import load_dotenv
 from flask_cors import CORS
 
