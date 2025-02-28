@@ -4,9 +4,11 @@
 🎤 Speech Recognition: Uses webkitSpeechRecognition to convert speech to text.
 🌎 AI Translation: Translates text into a user-specified language using OpenAI's LLM.
 🔊 Text-to-Speech: Converts the translated text into speech using the browser’s built-in API.
+
 🔧 Features
-✅ Real-time speech recognition (Web API webkitSpeechRecognition)
-✅ Multi-language text translation using OpenAI GPT
+
+✅ Real-time speech recognition (Web API webkitSpeechRecognition)                      
+✅ Multi-language text translation using OpenAI GPT                         
 ✅ Seamless text-to-speech conversion (Web API speechSynthesis)
 ✅ User-friendly UI for selecting target languages
 ✅ Flask-based backend for handling API requests
